@@ -1,0 +1,17 @@
+ENVI
+description = {
+AVIRIS geocoding look-up file, pixel size =       16.2000
+average scene elevation =       360.719 rotation angle =       0.00000000
+datum = WGS-84
+UTM zone =       10
+upper left corner (1,1) (Easting) =        356068.59
+upper left corner (1,1) (Northing) =        5503066.8 }
+samples =          829
+lines =         2542
+bands =        2
+header offset =        0
+data type =        2
+interleave = bil
+byte order =        0
+map info ={UTM, 1, 1, 356068.595, 5503066.762, 16.200, 16.200, 
+      10, North, WGS-84, units=Meters, rotation=0.00000000}
